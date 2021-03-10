@@ -1,30 +1,29 @@
 #### Привет, меня зовут Анна!
 
-- :computer: Работаю над дипломом в Яндекс.Практикуме. Сервис для поиска фильмов по запросу с возможностью сохранить в личном кабинете. 
-- :memo: В планах: изучение Redux, Sass, Less.
-- :iphone: Telegram: @annakin_kiwi :kiwi_fruit:
+:computer: Работаю над дипломом в Яндекс.Практикуме. Это будет [сервис для поиска фильмов](https://github.com/kozhevatova/movies-explorer-frontend) по запросу с возможностью сохранить в личном кабинете.
 
-### Навыки: 
+:memo: В планах: 
+- доработать [проект Mesto](https://github.com/kozhevatova/react-mesto-api-full) с использованием Redux
+- попробовать свои силы в open-source проекте
+- углубиться в мобильную разработку (React Native)
 
-JS / HTML5 / CSS3 / React / BEM / Node.js / ExpressJS / ООП 
+### 🔨 Навыки: 
 
-### Статистика:
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![React Router](https://img.shields.io/badge/-React%20Router-000?&logo=React%20Router)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-000?&logo=express)
+![ООП](https://img.shields.io/badge/-ООП-000?)
+![БЭМ](https://img.shields.io/badge/-БЭМ-000?)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kozhevatova&show_icons=true) 
+### :trophy: Статистика:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kozhevatova)](https://github.com/anuraghazra/github-readme-stats)
+<div display="flex"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=kozhevatova&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kozhevatova&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></div>
 
-<!--
-**kozhevatova/kozhevatova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Связаться со мной:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40em" align="center" alt="Follow Anna on LinkedIn" title="Follow Anna on LinkedIn"/>](https://t.me/annakin_kiwi)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Anna on Instagram"/>](https://instagram.com/annakin_kiwi)
