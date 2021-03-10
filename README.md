@@ -27,5 +27,5 @@
 
 ### 📫 Связаться со мной:
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40em" align="center" alt="Follow Anna on LinkedIn" title="Follow Anna on LinkedIn"/>](https://t.me/annakin_kiwi)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40em" align="center" alt="Write to Anna on Telegram" title="Write to Anna on Telegram"/>](https://t.me/annakin_kiwi)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Anna on Instagram"/>](https://instagram.com/annakin_kiwi)
