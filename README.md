@@ -20,7 +20,7 @@
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000?&logo=express)
 ![ООП](https://img.shields.io/badge/-ООП-000?)
 ![БЭМ](https://img.shields.io/badge/-БЭМ-000?)
-![C#](https://img.shields.io/badge/-C#-000?&logo=C%20Sharp)
+![C#](https://img.shields.io/badge/-C%23%20-000?&logo=C%20Sharp)
 ![Xamarin](https://img.shields.io/badge/-Xamarin-000?&logo=Xamarin)
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
 
