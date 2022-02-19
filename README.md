@@ -15,6 +15,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![React Router](https://img.shields.io/badge/-React%20Router-000?&logo=React%20Router)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000?&logo=express)
