@@ -12,6 +12,7 @@
 ### 🔨 Навыки: 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=ddc508)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
